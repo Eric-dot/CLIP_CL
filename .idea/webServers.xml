@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9faf5ec9-5a39-4afd-9fc9-efcc704a7ab1" name="ilab1">
+        <fileTransfer rootFolder="/lab/tmpi1b/u/rongcanf/clip" accessType="SFTP" host="localhost" port="6003" sshConfigId="3f44f5cb-f011-485c-8677-bd26f790ae5a" sshConfig="andy@localhost:6003 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
